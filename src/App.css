@@ -1,0 +1,72 @@
+.uploaded-names {
+  margin-top: 20px;
+}
+
+.uploaded-names ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.uploaded-names li {
+  margin-bottom: 5px;
+  font-size: 1.2rem;
+}
+
+.uploaded-names button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+.uploaded-names button:hover {
+  background-color: #0056b3;
+}
+
+.uploaded-names span {
+  margin-right: 10px;
+}
+
+.upload-container {
+  margin-top: 20px;
+}
+
+.upload-container input[type="file"] {
+  margin-top: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+#title {
+  font-size: 2rem;
+  margin: auto;
+  padding: 10px;
+}
